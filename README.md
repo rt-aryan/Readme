@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rt-aryan
+- 👋 Hi, I’m Aryan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Python
